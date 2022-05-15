@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Сайт некого ZeRoBa</title>
+        <link href="web-site.css" rel ="stylesheet"/>
+    </head>
+    <body>
+        <div class="container">
+            <div class="info">
+                <img src="unknown.png" alt="тут моя фотка" class="avatar1"/>
+                <div class="info-text">
+                    <h1>ZeRoBa</h1>
+                    <p>Я обычный человек, который учится не лениться, а также саморазвиваться</p>
+                    <p>Немного умею рисовать и программировать, люблю эклерчики:)</p>
+                    <p>Имею способность: жрать и не толстеть</p>
+                    <ul>
+                        <li><a href="https://vk.com/zerov5022">Мой Вк</a></li>
+                        <li><a href="https://www.youtube.com/channel/UCufncQV2EV2Lfbf0-8TITNw">Мой YouTube</a></li>
+                        <li><a href="https://steamcommunity.com/profiles/76561199145709204/">Мой Steam</a></li>
+                    </ul>
+                </div>
+            </div>
+
+            <hr>
+            <div class="card yel">
+                <h2>Моя краткая биография</h2>
+                <p>Рассказывать о себе трудно, да и не всем нравиться. Коротко: обычный пацан лет 18.
+                    Пытаюсь постичь Дзен, но из-за бомбежа не удаётся. Люблю слушать музыку в частности без слов, потому что не мешает сосредотачиваться.
+                    Учусь рисовать и программировать, пока что получается неплохо. <i>"Я лесник - я живу в лесу"</i>
+                    Люблю находиться в лесу, особенно ходить за грибами и ягодами. Напоследок, хочу научитсья
+                    создавать свою музыку, а также когда-нибудь стримить какую-нибудь бурду.</p>
+            </div>
+            <hr>
+
+            <div class="info2">
+                <img src="relax.jpg" alt="фотка нашего сервера" class="avatar1"/>
+                <div class="info2-text">
+                    <a class="a" href="https://discord.gg/5FtfU5zpCZ">Наш дискорд сервер</a>
+                    <p>Мой повседневный Discord-сервер, где я обычно провожу время.
+                        Ждём всех желающих :)</p>
+                </div>
+            </div>
+            <hr>
+
+            <div class="info3">
+                <img src="agf.png" alt="фотка меня" class="avatar1 avatar3"/>
+                <div class="info3-text">
+                    <h2>Мой список любимых игр</h2>
+                    <ol>
+                        <li>Terraria</li>
+                        <li>Minecraft</li>
+                        <li>Stay Out</li>
+                        <li>Craft the World</li>
+                    </ol>
+                </div>
+            </div>
+            <hr>
+
+            <div class="info4">
+                <img src="pony1.png" alt="фотка меня" class="avatar1 pi"/>
+                <div class="info4-text">
+                    <h2>Список просмотренного аниме</h2>
+                    <ol>
+                        <li>Коносуба</li>
+                        <li>Рождённый в бездне</li>
+                        <li>Герой щита</li>
+                        <li>В другом мире со смартфоном</li>
+                        <li>Атака титанов</li>
+                        <li>Маг-целитель</li>
+                        <li>Обещанный Неверленд</li>
+                        <li>Реинкарнация безработного</li>
+                        <li>Бездомный бог</li>
+                        <li>Военная хроника маленькой девочки</li>
+                    </ol>
+                </div>
+
+            </div>
+
+        </div>
+        
+    </body>
+</html>
